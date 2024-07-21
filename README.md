@@ -1,48 +1,71 @@
-Skills and Tasks Demonstrated
-Penetration Testing Methodology:
+<h1>Skills and Tasks Demonstrated</h1>
 
-Planning and Reconnaissance: Conducted a comprehensive assessment of Alex Finance’s server, including initial reconnaissance to gather information about the target.
-Network Scanning and Enumeration: Employed tools like Nmap and OpenVAS to identify open ports, services, and vulnerabilities on the target system.
-Vulnerability Assessment:
+<h2>Penetration Testing Methodology:</h2>
 
-Port Scanning: Utilized Nmap to discover open ports and their associated services, such as SSH, HTTP, and MySQL.
-Vulnerability Scanning: Used OpenVAS to perform a detailed scan of the system to identify high, medium, and low-severity vulnerabilities.
-Exploitation of Vulnerabilities:
+<b>Planning and Reconnaissance:</b> Conducted a comprehensive assessment of Alex Finance’s server, including initial reconnaissance to gather information about the target.
 
-Directory Listing and Enumeration: Identified and exploited directory listing vulnerabilities to discover sensitive files and credentials.
-SSH User Enumeration: Used searchsploit and custom scripts to enumerate SSH usernames and assess the security of SSH configurations.
-Password Brute Forcing: Implemented brute-force attacks to crack weak SSH passwords using tools like ncrack.
-Weak Hashing: Identified and exploited weak MD5 password hashes, demonstrating the vulnerabilities of outdated hashing algorithms.
-Code Injection: Discovered and exploited code injection vulnerabilities in web applications.
-Improper Authentication: Detected and exploited improper authentication mechanisms to gain unauthorized access to the database.
-Mitigation and Remediation:
+<b>Network Scanning and Enumeration:</b> Employed tools like Nmap and OpenVAS to identify open ports, services, and vulnerabilities on the target system.
 
-Vulnerability Mitigation: Proposed solutions for each identified vulnerability, such as disabling directory listings, implementing multi-factor authentication, and upgrading hashing algorithms.
-Secure Protocols: Recommended the use of HTTPS and other secure protocols to protect data in transit.
-Intrusion Detection: Suggested deploying intrusion detection and prevention systems (IDPS) and other monitoring tools to enhance security.
-Privilege Escalation:
+<h2>Vulnerability Assessment:</h2>
 
-SUID Binaries: Identified and exploited SUID (Set User ID) binaries to escalate privileges and gain root access on the target system.
-Password Hashing and Shadow File Manipulation: Demonstrated techniques for modifying the shadow file to escalate privileges.
-Group Management:
+<b>Port Scanning:</b>  Utilized Nmap to discover open ports and their associated services, such as SSH, HTTP, and MySQL.
 
-Team Collaboration: Effectively managed group work, including division of tasks, communication using tools like Canvas, WhatsApp, and Zoom, and ensuring all team members contributed to the project’s success.
-Reporting and Documentation:
+<b>Vulnerability Scanning:</b>  Used OpenVAS to perform a detailed scan of the system to identify high, medium, and low-severity vulnerabilities.
 
-Detailed Reporting: Created a comprehensive report documenting the penetration testing process, including vulnerabilities found, exploitation methods, and remediation recommendations.
-Visual Aids: Included figures and diagrams to support findings and illustrate the scanning results, vulnerability details, and exploitation techniques.
-Technical Skills:
+<h2>Exploitation of Vulnerabilities:</h2>
 
-Tool Proficiency: Demonstrated proficiency with various security tools and techniques, including Nmap, OpenVAS, searchsploit, ncrack, hashcat, and Wireshark.
-Command-Line Operations: Executed complex commands and scripts for vulnerability assessment and exploitation.
-Summary of Actions
-Initial Assessment: Conducted a gray-box penetration test on Alex Finance's server, systematically identifying and assessing vulnerabilities.
-Scanning and Enumeration: Performed network and vulnerability scanning to discover potential weaknesses and security issues.
-Exploitation: Exploited identified vulnerabilities, including directory listings, weak hashes, SSH brute force, and improper authentication.
-Mitigation: Provided detailed recommendations to mitigate the discovered vulnerabilities and improve overall security posture.
-Privilege Escalation: Demonstrated methods for escalating privileges on the target system through SUID binaries and manipulation of password hashes.
-Group Dynamics: Managed group work effectively, ensuring successful collaboration and completion of the project.
-Reporting: Documented findings and provided actionable recommendations to enhance security.
+<b>Directory Listing and Enumeration:</b>  Identified and exploited directory listing vulnerabilities to discover sensitive files and credentials.
+
+<b>SSH User Enumeration:</b>  Used searchsploit and custom scripts to enumerate SSH usernames and assess the security of SSH configurations.
+
+<b>Password Brute Forcing:</b>  Implemented brute-force attacks to crack weak SSH passwords using tools like ncrack.
+
+<b>Weak Hashing:</b>  Identified and exploited weak MD5 password hashes, demonstrating the vulnerabilities of outdated hashing algorithms.
+
+<b>Code Injection:</b>  Discovered and exploited code injection vulnerabilities in web applications.
+
+<b>Improper Authentication:</b>  Detected and exploited improper authentication mechanisms to gain unauthorized access to the database.
+
+<h2>Mitigation and Remediation:</h2>
+
+<b>Vulnerability Mitigation:</b>  Proposed solutions for each identified vulnerability, such as disabling directory listings, implementing multi-factor authentication, and upgrading hashing algorithms.
+
+<b>Secure Protocols:</b>  Recommended the use of HTTPS and other secure protocols to protect data in transit.
+
+<b>Intrusion Detection:</b>  Suggested deploying intrusion detection and prevention systems (IDPS) and other monitoring tools to enhance security.
+
+<h2>Privilege Escalation:</h2>
+
+<b>SUID Binaries:</b>  Identified and exploited SUID (Set User ID) binaries to escalate privileges and gain root access on the target system.
+
+<b>Password Hashing and Shadow File Manipulation:</b>  Demonstrated techniques for modifying the shadow file to escalate privileges.
+
+<h2>Management:</h2>
+
+<b>Detailed Reporting:</b>  Created a comprehensive report documenting the penetration testing process, including vulnerabilities found, exploitation methods, and remediation recommendations.
+
+<b>Visual Aids:</b>  Included figures and diagrams to support findings and illustrate the scanning results, vulnerability details, and exploitation techniques.
+
+<h2>Technical Skills:</h2>
+
+<b>Tool Proficiency:</b>  Demonstrated proficiency with various security tools and techniques, including Nmap, OpenVAS, searchsploit, ncrack, hashcat, and Wireshark.
+
+<b>Command-Line Operations:</b>  Executed complex commands and scripts for vulnerability assessment and exploitation.
+
+<h2>Summary of Actions</h2>
+
+<b>Initial Assessment:</b>  Conducted a gray-box penetration test on Alex Finance's server, systematically identifying and assessing vulnerabilities.
+
+<b>Scanning and Enumeration:</b>  Performed network and vulnerability scanning to discover potential weaknesses and security issues.
+
+
+<b>Exploitation:</b>  Exploited identified vulnerabilities, including directory listings, weak hashes, SSH brute force, and improper authentication.
+
+<b>Mitigation:</b>  Provided detailed recommendations to mitigate the discovered vulnerabilities and improve overall security posture.
+
+<b>Privilege Escalation:</b>  Demonstrated methods for escalating privileges on the target system through SUID binaries and manipulation of password hashes.
+
+<b>Reporting:</b>  Documented findings and provided actionable recommendations to enhance security.
 Overall, the write-up reflects a thorough understanding of penetration testing processes, vulnerability assessment, exploitation techniques, and effective remediation strategies, as well as strong teamwork and communication skills.
 
 
